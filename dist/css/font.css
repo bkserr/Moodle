@@ -1,0 +1,11 @@
+/*** teaser icons ***/
+@font-face {
+    font-family: 'glyphicons-halflings';
+    src:url('../fonts/glyphicons-halflings.eot');
+    src:url('../fonts/glyphicons-halflings.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/glyphicons-halflings.woff') format('woff'),
+        url('../fonts/glyphicons-halflings.ttf') format('truetype'),
+        url('../fonts/glyphicons-halflings.svg#rt-icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
